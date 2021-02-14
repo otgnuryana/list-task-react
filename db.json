@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Mengecat Pagar",
+      "day": "Sabtu 13 Februari 2021",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Mengamplas Pagar",
+      "day": "Sabtu 13 Februari 2021",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Deadline Project",
+      "day": "Monday 14 January 2021",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
