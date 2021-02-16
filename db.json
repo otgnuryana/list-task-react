@@ -3,7 +3,7 @@
     {
       "text": "Mengecat Pagar",
       "day": "Sabtu 13 Februari 2021",
-      "reminder": true,
+      "reminder": false,
       "id": 2
     },
     {
@@ -11,12 +11,6 @@
       "day": "Sabtu 13 Februari 2021",
       "reminder": false,
       "id": 3
-    },
-    {
-      "text": "Deadline Project",
-      "day": "Monday 14 January 2021",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
